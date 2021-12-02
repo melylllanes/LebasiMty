@@ -30,14 +30,7 @@ public class DistribuidorUsuario {
 		this.mensaje = mensaje;
 	}
 
-	public DistribuidorUsuario(String nombre, String apellido, String email, String telefono) {
-		
-		this.nombre = nombre;
-		this.apellido = apellido;
-		this.email = email;
-		this.telefono = telefono;
-		
-	}
+	
 
 	public Long getId() {
 		return id;
