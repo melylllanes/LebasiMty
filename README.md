@@ -110,7 +110,7 @@ Uso de páginas:
 ## Roadmap:
 #### Requerimientos que se implementarán en un futuro:
 - Agregar funcionalidad de pago en línea.
-- Agregar funcionaliad de chat en línea con un nutriologo.
+- Agregar funcionalidad de chat en línea con un nutriologo.
 
 
 
