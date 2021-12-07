@@ -1,7 +1,7 @@
 # Applicación web de LebasiMonterrey
 
 #### Descripción: 
-- Aplicación web que brinda información sobre el producto y calculación de costos del producto y envió.
+- Aplicación web que brinda información sobre el producto y calculación de costos como de envió y producto.
 
 #### Problema: 
 - El cliente requiere una página web donde se mantenga toda la información de su producto para así no tener que mandar la información cada vez que se la pidan por mensaje en Facebook.
@@ -22,7 +22,7 @@
 - Serividor de base de datos: PostgresSQL
 
 #### Paquete adicionales:
-- Framework spring Boot
+- IDE con Spring Boot Framework
 - MVN Apache
 
 #### Versión Java:
