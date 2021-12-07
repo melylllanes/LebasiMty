@@ -63,5 +63,36 @@ Configuración del producto (archivos de configuración).
  Configuración de los requerimientos: (para correr el programa dentro de linea de comando)
  - Agregar ruta la ruta maven a la variable de ambiente del sistema (PATH):
  <img src="https://user-images.githubusercontent.com/43546733/144938158-cd6bea25-d5f9-47a4-a76f-4b104880d9d5.png" width="600">
+ 
+ &nbsp;
+## Uso:
+
+a.	Sección de referencia para usuario final. Manual que se hará referencia para usuarios finales.
+Uso de páginas:
+- Página de inicio: información sobre el producto.
+- Página de Beneficios: información sobre el los beneficios del producto.
+- Subpáginas de Padecimientos:  información sobre lso padecimientos que ataca el producto.
+- Página de tienda: información sobre el costo del producto y calculación de estimación de costos.
+  - Agregar el número de latas (no se puede comprar más de 25 latas en una sola exhibición)
+  - Agregar muncipio para envío
+- Página de Pedido: visualizar el monto total de pedido y información de ficha de deposito.
+  - Dar clic en tienda para cambiar pedido
+
+
+b.	Sección de referencia para usuario administrador.
+- Administrar base de datos en Heroku:
+  - Guardar copia de base datos.
+  - Destruir base de datos.
+  - Crear base de datos.  
+
+ 
+ &nbsp;
+## Contribución:
+Guía de contribución para usuarios.
+1.  Entrar a https://github.com/melylllanes/LebasiMty y dar clic en Fork
+    ![image](https://user-images.githubusercontent.com/43546733/144940254-0fe4764c-349f-45c6-9904-2928c73f399c.png)
+2. Clonar repositrio y crear branch con el nombre de la función a agregar.
+3. 
+b.	Debe contar con pasos específicos para clonar repositorio, crear un nuevo branch, enviar el pull request, esperar a hacer el merge.
 
 
