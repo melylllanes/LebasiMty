@@ -32,7 +32,7 @@
 ## Instalación:
 
 #### Instalación y ejecucción de aplicación web:
-1. Conar repositorio de branch master
+1. Clonar repositorio de branch master
 2. Abrir Powershell o CMD en directorio de proyecto
 3. Correr comando: `mvn package`
 4. Correr comando: `java -jar .\target\spring-boot-0.0.1-SNAPSHOT.jar`
