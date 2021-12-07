@@ -92,7 +92,16 @@ Guía de contribución para usuarios.
 1.  Entrar a https://github.com/melylllanes/LebasiMty y dar clic en Fork
     ![image](https://user-images.githubusercontent.com/43546733/144940254-0fe4764c-349f-45c6-9904-2928c73f399c.png)
 2. Clonar repositrio y crear branch con el nombre de la función a agregar.
-3. 
-b.	Debe contar con pasos específicos para clonar repositorio, crear un nuevo branch, enviar el pull request, esperar a hacer el merge.
+3. Agregar funcionamiento y crear pull request.
+![image](https://user-images.githubusercontent.com/43546733/144945443-880504c6-f798-462a-b41f-69ffa4abd00c.png)
+4. Administrador de repositorio se tardará 48 - 72 hrs para verficar pull request y posterior hacer merge.
+ 
+ &nbsp;
+## Roadmap:
+Requerimientos que se implementarán en un futuro:
+- Agregar funcionalidad de pago en línea.
+- Agregar funcionaliad de chat en línea con un nutriologo.
+
+
 
 
